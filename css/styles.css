@@ -27,7 +27,7 @@
 }
 body {
   font-family: "Inter", sans-serif;
-  background-color: var(--Off-white);
+  background-color: var(--neutral-200);
   font-size: 15px;
   color: var(--neutral-600);
   padding: 2.5rem 0;
